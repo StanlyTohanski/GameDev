@@ -3,7 +3,7 @@
 for i in range(5):
     print("hi")
 
-print("12345")
+print("What's up dude")
 
 for i in range(6):
     print(i%2 != 0)
