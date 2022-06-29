@@ -1,1 +1,6 @@
 #asdf
+
+for i in range(5):
+    print("hi")
+
+print("12345")
